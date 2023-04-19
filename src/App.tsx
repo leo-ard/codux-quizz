@@ -5,10 +5,10 @@ import {useState} from 'react';
 
 function get_question(nb, answers){
     if(nb == 0){
-        return {question:"hello", answers:["hey"]}
+        return {question:"hello", answers:["hey"], is_input:true}
     }
     else if(nb == 1){
-        return {question:"test", answers:["hey"]}
+        return {question:"test", answers:["hey"], is_input:false}
     }
     
     
@@ -20,7 +20,11 @@ function App() {
 
     return (
         <div className={styles.App}>
-            <Question {...get_question(question_number, answers)} />
+            <Question 
+                {...get_question(question_number, answers)} 
+                callback={(e) => {
+                    set_question_number(question_number+1);
+                }} />
         </div>
     );
 }

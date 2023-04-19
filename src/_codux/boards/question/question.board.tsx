@@ -7,6 +7,7 @@ export default createBoard({
         <Question
             answers={['13h00', 'quinze-heure-vingth-quatre', 'Lorem ipsum amet']}
             question="What time is it ?"
+            is_input=false
         />
     ),
     environmentProps: {
