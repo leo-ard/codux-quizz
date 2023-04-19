@@ -5,7 +5,7 @@ import { Question } from './components/question/question';
 function App() {
     return (
         <div className={styles.App}>
-            <Question />
+            <Question answers={["hello", "world"]} question="une autre question" />
         </div>
     );
 }
