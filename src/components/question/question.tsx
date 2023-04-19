@@ -19,16 +19,17 @@ export const Question = ({ className, is_input, answers, question, callback }: Q
             <h1 className={styles['question-name']}>{question}</h1>
             {
                 is_input ? 
-                    answers.map((a) => (
-                        <button key={a} className={styles['question-button']} onClick={()=>{callback(a)}}>
-                            {a}
-                        </button>
-                        ))
-                :
                     <div>
                         <input type="text" className={styles['question-button']} />
                         <button>Submit</button> 
                     </div>
+                :
+                    answers.map((a) => (
+                            <button key={a} className={styles['question-button']} onClick={()=>{callback(a)}}>
+                                {a}
+                            </button>
+                            ))
+                    
             }
         </div>
     );
