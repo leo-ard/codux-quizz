@@ -42,3 +42,13 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: "Pixel";   /*Can be any text*/
+  src: local("Pixel"),
+    url("./assets/Pixel.otf") format("truetype");
+}
+
+* {
+  font-family: "Pixel";
+}

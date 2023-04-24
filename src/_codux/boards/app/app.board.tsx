@@ -1,5 +1,6 @@
 import { createBoard } from '@wixc3/react-board';
 import App from '../../../App';
+import '98.css';
 
 export default createBoard({
     name: 'App',
@@ -7,7 +8,7 @@ export default createBoard({
     environmentProps: {
         windowWidth: 1024,
         windowHeight: 768,
-        canvasWidth: 706,
-        canvasHeight: 265,
+        canvasWidth: 782,
+        canvasHeight: 311,
     },
 });

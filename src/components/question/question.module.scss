@@ -15,10 +15,36 @@
   background-attachment: scroll;
   background-origin: padding-box;
   background-clip: border-box;
+  height: 100%;
 }
 .question-name {
 }
 .question-button {
-  border: 3px double #b69090;
   opacity: 0.9;
+  margin: 5px;
+  font-size: 20px;
+  padding: 15px;
+  font-family: "Pixel";
+}
+.question {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  flex-wrap: nowrap;
+}
+.input-question-div {
+  display: flex;
+  flex-direction: column;
+  overflow: visible;
+}
+.input-question:invalid {
+  border: 2px solid pink;
+}
+
+.input-question {
+  font-family: "Pixel";
+  font-size: 20px;
+  margin: 5px;
+  text-align: center;
 }

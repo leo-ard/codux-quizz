@@ -6,3 +6,24 @@
   flex-wrap: wrap;
   align-items: center;
 }
+.personnalite-text {
+  text-align: justify;
+  font-size: 17px;
+  margin: 10px;
+}
+.image-div {
+  width: 100%;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-origin: padding-box;
+  background-clip: border-box;
+  background-position: 49% 41%;
+  background-size: cover;
+  background-attachment: scroll;
+  height: 200px;
+  opacity: 1;
+  background-image: url(http://localhost:42939/src/assets/para_hermite.jpg);
+}
+.personnalite-h3 {
+  background-color: rgba(195, 195, 195, 0.3);
+}
