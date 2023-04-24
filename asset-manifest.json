@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/parasite-plastique/static/css/main.8db14819.css",
+    "main.js": "/parasite-plastique/static/js/main.4c45fb4f.js",
+    "static/js/496.92d18b88.chunk.js": "/parasite-plastique/static/js/496.92d18b88.chunk.js",
+    "static/media/para_amoureux.jpg": "/parasite-plastique/static/media/para_amoureux.1cdd68349659d44463d6.jpg",
+    "static/media/para_reveur.jpg": "/parasite-plastique/static/media/para_reveur.bd8e6b07581827285b6c.jpg",
+    "static/media/para_leader.jpg": "/parasite-plastique/static/media/para_leader.ebebe42fc66db512c5a3.jpg",
+    "static/media/para_robot.jpg": "/parasite-plastique/static/media/para_robot.0ce0e88a11bef8d77df6.jpg",
+    "static/media/para_survivant.jpg": "/parasite-plastique/static/media/para_survivant.11498f3a86e9678c395a.jpg",
+    "static/media/para_egoiste.jpg": "/parasite-plastique/static/media/para_egoiste.bfc19305acac0a45bd97.jpg",
+    "static/media/para_hermite.jpg": "/parasite-plastique/static/media/para_hermite.9381e3b924ec505ce71a.jpg",
+    "static/media/Pixel.otf": "/parasite-plastique/static/media/Pixel.5493b63523b7731f17bf.otf",
+    "static/media/ms_sans_serif.woff": "/parasite-plastique/static/media/ms_sans_serif.aac84aa6de42b83d1a62.woff",
+    "static/media/ms_sans_serif_bold.woff": "/parasite-plastique/static/media/ms_sans_serif_bold.9fbe71248995f1c639d4.woff",
+    "static/media/ms_sans_serif.woff2": "/parasite-plastique/static/media/ms_sans_serif.0348082abb503fb6a8c2.woff2",
+    "static/media/ms_sans_serif_bold.woff2": "/parasite-plastique/static/media/ms_sans_serif_bold.7fcf57cc6e87ecddbf64.woff2",
+    "index.html": "/parasite-plastique/index.html",
+    "main.8db14819.css.map": "/parasite-plastique/static/css/main.8db14819.css.map",
+    "main.4c45fb4f.js.map": "/parasite-plastique/static/js/main.4c45fb4f.js.map",
+    "496.92d18b88.chunk.js.map": "/parasite-plastique/static/js/496.92d18b88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8db14819.css",
+    "static/js/main.4c45fb4f.js"
+  ]
+}
