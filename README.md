@@ -8,5 +8,6 @@ Dans cet univers où le plastique est rendu organique, l'artificiel et le nature
 
 ## Autheur.e.s
 
-- Oeuvre par Tasha Oest O'Leary
-- Conception du site web par Léonard Oest O'Leary et Tasha Oest O'Leary
+- Oeuvre par Tasha Oest O'Leary ([@mewmewpewpew](https://github.com/mewmewpewpew))
+- Conception du site web par Léonard Oest O'Leary ([@leo-ard](https://github.com/leo-ard)) et Tasha Oest O'Leary
+
