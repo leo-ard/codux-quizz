@@ -1,59 +1,12 @@
-<div align="center">  
-    <img height="50"src="./src/assets/codux.svg">  
-    <h1>React App template for Codux</h1>
-</div>
+# Parasite plastique
 
-### A Visual IDE for React Projects
+Ceci est l'ensemble du code utilisé pour l'oeuvre "Parasite plastique". [Vous pouvez consulter la partie web de l'oeuvre ici.](https://leo-ard.github.io/parasite-plastique)
 
-Codux is an all-in-one visual development environment. Whether you’re starting a new app, creating components, or editing an existing project, every visual change you make reflects instantly in the code and vice versa. To learn more about Codux, visit our website - [https://www.codux.com/](https://www.codux.com/)
+## Description
 
-This project was bootstrapped with [`create-react-app`](https://github.com/facebook/create-react-app).
+Dans cet univers où le plastique est rendu organique, l'artificiel et le naturel ne font qu'un, l'humain devenant un animal, une bestiole, un parasite. Je veux explorer la relation ironique de notre peur/haine envers les virus et les espèces envahissantes, même si, selon certaines définitions l’humain est un parasite de son environnement qu’il transforme  et détruit. De même, notre peur grandissante des virus informatiques et de la sécurité de nos informations personnelles témoignent de notre monde où les limites entre la réalité et le virtuel sont de plus en plus floue. Il faut prendre conscience de nos actions et des informations que nous censurons ou partageons qui transmettent nos idées infectant nos pensées et nos corps.  Quel est notre responsabilité face à nos opinions, nos habitudes quotidiennes, l’abus de production et la marchandisation de nos ressources et de la vie ? Occupés à nous distraire et à se définir une identité normative, nous fermons les yeux sur les déséquilibres et inégalités qui affectent les populations et les obligent à migrer, augmentant ainsi autant les possibilités de transmission de maladies que le nombre de virus informatiques, source de notre hypocrisie. À travers mon assemblage, je cherche à représenter notre société actuelle et future dans une beauté superficielle où le plastique et le numérique  sont notre environnement et notre consommation.
 
-It includes a single React component to start your project with, a sample [`codux.config.json`](codux.config.json) with preconfigured keys, a `package.json` file to describe the project's packages and dependencies, and a folder and component structure to put everything neatly in its place.
+## Autheur.e.s
 
-- Edit, render and compose apps that make use of **`React`**-based components.
-- Create components with **`TypeScript`**, **`SCSS`** and **`CSS Modules`** support.
-- Visually edit in real-time and in an isolated environment.
-
-### Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-### Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Oeuvre par Tasha Oest O'Leary
+- Conception du site web par Léonard Oest O'Leary et Tasha Oest O'Leary
